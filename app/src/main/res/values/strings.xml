@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">hw4_m7</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="results">
+        <item>Победа</item>
+        <item>Поражение</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>Лёгкая</item>
+        <item>Средняя</item>
+        <item>Сложная</item>
+        <item>Экспертная</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
